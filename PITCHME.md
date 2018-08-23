@@ -1,27 +1,28 @@
-# HealthcareVentureKnot
+# ナースコール改良版
+南相馬市立小高病院　添野祥子
+
+---
+
+# 課題
+入院患者
+家族とのコミュニケーション
 
 
+---
 
-課題
-解決策
-市場規模 MAGOボタンの話
+# 解決策
+MAGOボタン
 
-![alt](assets/image_name.png)
+![alt](http://pr.mago-btn.com/img/tsunagari_img.png)
+
+---
+
+# ユーザーからの声
 
 
-ユーザーからの声
-ユニークな洞察
-ビジネスモデル
-チーム
-Why this
-Why now
-Why me
-28p以上
+---
 
-Simple 
-Unexpected
-Concrete
-Credible
-Emotional
-Story
+# ビジネスモデル
+未定...
+
 ---
