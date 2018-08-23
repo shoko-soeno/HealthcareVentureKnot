@@ -6,9 +6,12 @@
 ## 課題
 
 ナースコールは押しづらい
-・　身体的
-・　心理的
+・　身体的　
+
+・　心理的　
+
   ナースは忙しそう
+  
   恥ずかしい
 
 ---
@@ -21,7 +24,7 @@
 
 ## 既存サービス: MAGOボタン
 
-http://pr.mago-btn.com/img/tsunagari_img.png
+![alt](http://pr.mago-btn.com/img/tsunagari_img.png)
 
 ---
 
